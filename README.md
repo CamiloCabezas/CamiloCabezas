@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan Camilo Cabezas Galvis</h1>
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 
+<h3>I am someone who is always in pursuit of self-improvement and learning new things that aid in my personal development. That's why I made the decision to embark on the path of programming out of passion and love, as I find both challenge and satisfaction in programming when I see what I can achieve through dedication</h3>
+
+<h3>Taking into account my studies in Business Administration, I can not only offer companies my knowledge in web development but also everything related to efficient and effective production and teamwork without any loss of time.</h3>
+
 - 📫 How to reach me **camilocabezag@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
